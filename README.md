@@ -4,8 +4,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mh.nematy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mh.nematy_" height="30" width="40" /></a>
-  <a href="https://t.me/invincible_mamad" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="invincible_mamad" height="30" width="40" />
+ <a href="https://t.me/invincible_mamad" target="_blank">
+  <img align="center" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="invincible_mamad" height="30" width="30"/>
 </a>
 </p>
 
