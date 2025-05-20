@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://github.com/MamadNematy/MamadNematy/blob/main/mamad-banner.gif" alt="Mamad Nematy Banner" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://github.com/MamadNematy/Mamad/blob/main/your-banner.gif" alt="Mamad Nematy Banner" width="800"/>
 </p>
 
