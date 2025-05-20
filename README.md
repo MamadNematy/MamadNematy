@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/MamadNematy/Mamad/blob/main/your-banner.gif" alt="Mamad Nematy Banner" width="800"/>
+</p>
+
+
 <h1 align="center">
   <a href="https://github.com/MamadNematy">Hi there, I'm Mamad</a>
 </h1>
