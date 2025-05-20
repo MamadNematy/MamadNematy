@@ -1,43 +1,56 @@
-<h1 align="center">Hi, I'm Mamad 👋</h1>
+<h1 align="center">
+  <a href="https://github.com/MamadNematy">Hi there, I'm Mamad</a>
+</h1>
 
 <p align="center">
-🎯 Frontend Developer | Learning React & TypeScript | UI/UX Enthusiast  
+  <a href="https://github.com/MamadNematy">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Frontend+Learner+from+Iran;Passionate+about+React,+TypeScript+%26+Web+UI%2FUX"/>
+  </a>
+</p>
+
+
+---
+
+### 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 ---
 
-I'm Mohammad Hassan Nematy, a frontend developer from Iran 🇮🇷  
-Passionate about creating responsive web interfaces and learning modern technologies.
-
----
-
-### 🛠 Tech Stack  
-HTML · CSS · JavaScript · TypeScript · React · TailwindCSS
-
----
-
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MamadNematy&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MamadNematy&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamadNematy&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MamadNematy&theme=algolia&row=1&column=6"/>
 </p>
 
 ---
 
 ### 📬 Connect with me
 
-<p align="center">
-  <a href="https://t.me/invincible_mamad">
-    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" height="28"/>
+<p align="left">
+  <a href="https://t.me/invincible_mamad" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" height="30" width="30" />
   </a>
-  <a href="https://instagram.com/mh.nematy_">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" height="28"/>
-  </a>
-  <a href="https://github.com/MamadNematy">
-    <img src="https://img.icons8.com/ios-glyphs/30/github.png" height="28"/>
+  <a href="https://instagram.com/mh.nematy_" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
   </a>
 </p>
 
 ---
 
-<p align="center">🧠 Keep learning, keep building.</p>
+<p align="center">
+  🧠 Keep learning, keep building.
+</p>
