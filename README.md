@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MamadNematy/MamadNematy/blob/main/mamad-banner.gif" alt="Mamad Nematy Banner" width="100%" />
+  <img src="[https://github.com/MamadNematy/MamadNematy/blob/main/mamad-banner.gif](https://github.com/MamadNematy/MamadNematy/blob/main/mamad-banner.gif.gif)" alt="Mamad Nematy Banner" width="100%" />
 </p>
 
 <p align="center">
