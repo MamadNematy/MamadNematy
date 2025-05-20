@@ -2,13 +2,9 @@
   <img src="https://github.com/MamadNematy/MamadNematy/blob/main/mamad-banner.gif.gif" alt="Mamad Nematy Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/MamadNematy/Mamad/blob/main/your-banner.gif" alt="Mamad Nematy Banner" width="800"/>
-</p>
-
-
+<!-- 👋 Intro -->
 <h1 align="center">
-  <a href="https://github.com/MamadNematy">Hi there, I'm Mamad</a>
+  <a href="https://github.com/MamadNematy">Hi there, I'm Mamad 👋</a>
 </h1>
 
 <p align="center">
@@ -21,7 +17,7 @@
 
 ### 🚀 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -37,14 +33,15 @@
 
 ---
 
-### 📬 Connect with me
+### 📬 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://t.me/invincible_mamad" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" height="30" width="30" />
+    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" height="30" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/mh.nematy_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" />
   </a>
 </p>
 
