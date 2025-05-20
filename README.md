@@ -8,7 +8,6 @@
   </a>
 </p>
 
-
 ---
 
 ### 🚀 Tech Stack
@@ -25,13 +24,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MamadNematy&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamadNematy&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MamadNematy&theme=algolia&row=1&column=6"/>
 </p>
 
 ---
