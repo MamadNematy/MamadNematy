@@ -1,11 +1,7 @@
 <!-- Profile README.md for MamadNematy -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="ninja coding gif"/>
-</p>
-
 <h1 align="center">
-  <a href="https://github.com/MamadNematy">Hi there 👋 I'm Mamad</a>
+  <a href="https://github.com/MamadNematy">Hi there, I'm Mamad</a>
 </h1>
 
 <p align="center">
