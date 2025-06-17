@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/MamadNematy">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Frontend+Learner+from+Iran;Passionate+about+React,+TypeScript+%26+Web+UI%2FUX"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Frontend+learner+from+Iran.;Passionate+about+React,+Web+UI%2FUX."/>
   </a>
 </p>
 
